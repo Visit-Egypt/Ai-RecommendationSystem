@@ -60,13 +60,23 @@ measures the similarity between two vectors of an inner product space. It is mea
 
 
 
-## recommendation function (get_recommendation)
-The working principle is very simple. We first check if the place tag input is in the database and if it is we use our recommendation system to find similar place and  output only the top first place .
+## recommendation function (get_recommendation , get_similar_users)
+The working principle is very simple.  Both functions  work on to get the best places to recommend to the user 
 
-## Screenshots
+get_similar_users
 
-![image](https://user-images.githubusercontent.com/55753782/148607779-33dae73d-206f-4847-b28b-2f2c7069c0b6.png)
+This function working on find the similar user who has the same interset as  like our target user (  User-based Collaborative filtering ) 
 
-![image](https://user-images.githubusercontent.com/55753782/148607799-8b96a681-a3b3-46d1-a31f-ffa8b4036df3.png)
+![image](https://github.com/Visit-Egypt/Ai-RecommendationSystem/blob/main/r4.png?raw=true)
+
+get_recommendation
+
+This function working on Recommended places to user depends on user actions ( Item-based Collaborative Filtering)
+
+![image](https://raw.githubusercontent.com/Visit-Egypt/Ai-RecommendationSystem/main/r3.png?token=GHSAT0AAAAAABRI6JN2T4KTHMXRDOIC4QLCYRTWZFA)
+
+
+
+
 
 
