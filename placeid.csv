@@ -1,0 +1,127 @@
+,Unnamed: 0,Places,ID,Location,unknown,religious,pharaonic,modern,ancient,natural,romanian,humanly,fun,Islamic,Coptic,place_id
+0,0,The Egyptian Museum In Cairo,0,Cairo,0,0,1,0,1,0,0,1,0,0,0,6249c7df30170c0174c4419a
+1,1,The Hanging Church,1,Cairo,0,1,0,0,1,0,0,1,0,0,1,6249c7df30170c0174c4419b
+2,2,Ben Ezra Synagogue,2,Cairo,0,1,0,1,0,0,0,1,0,0,1,6249c7df30170c0174c4419c
+3,3,Amr Ibn Al-Aas Mosque,3,Cairo,0,1,0,0,1,0,0,1,0,1,0,6249c7df30170c0174c4419d
+4,4,Wadi El Natrun monasteries,4,Behira,0,1,0,0,1,0,0,1,0,0,1,random
+5,5,St. Barbara Church,5,Cairo,0,1,0,0,1,0,0,1,0,0,1,6249c7df30170c0174c441a4
+6,6,Coptic Museum,6,Cairo,0,1,0,0,1,0,0,1,0,0,1,6249c7df30170c0174c4419f
+7,7,National Museum Of Alexandria,7,Alexanderia,0,0,0,1,1,0,1,1,0,0,0,6249c7df30170c0174c441a2
+8,8,Bibliotheca Alexandria,8,Alexanderia,0,0,0,1,0,0,0,1,1,0,0,6249c7df30170c0174c441a0
+9,9,Luxor Temple,9,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249c7df30170c0174c441a6
+10,10,Karnak Temple,10,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249c7df30170c0174c441a7
+11,11,Valley Of The Kings,11,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249c7df30170c0174c441a3
+12,12,Valley Of The Queens,12,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249c7df30170c0174c441a5
+13,13,Deir El Medineh,13,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249c7df30170c0174c441aa
+14,14,Tal Basta,14,Sharqia,0,0,1,0,1,0,0,1,0,0,0,6249c7df30170c0174c4419e
+15,15,Dahshur Pyramids,15,Giza,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d0fd
+16,16,Giza Plateau,16,Giza,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d0fe
+17,17,Saqqara,17,Giza,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d0ff
+18,18,Royal Jewelry Museum,18,Alexanderia,0,0,0,1,0,0,1,1,1,0,0,6249ee6530170c017416d100
+19,19,Philae,19,Aswan,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d101
+20,20,Abu Simbel,20,Aswan,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d102
+21,21,Mummification Museum,21,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d103
+22,22,Hurghada Museum,22,Hurghada,0,0,1,1,0,0,0,1,1,0,0,6249ee6530170c017416d104
+23,23,Sharm al-Sheikh Museum,23,Sharm al-Sheikh,0,0,1,1,0,0,0,1,1,0,0,6249ee6530170c017416d105
+24,24,Saint Catherine's Monastery,24,South of Sina,0,1,0,0,1,0,0,1,1,0,1,6249ee6530170c017416d106
+25,25,Citadel of saladin cairo,25,Cairo,0,1,0,0,1,0,0,1,0,1,0,6249ee6530170c017416d107
+26,26,The Royal Carriages Museum,26,Cairo,0,0,0,1,1,0,0,1,1,0,0,6249ee6530170c017416d108
+27,27,Abdeen Palace,27,Cairo,0,0,0,1,1,0,0,1,1,0,0,6249ee6530170c017416d109
+28,28,Citadel of Qaitbay,28,Alexanderia,0,0,0,1,1,0,0,1,1,0,0,6249ee6530170c017416d10a
+29,29,Museum of Islamic Art,29,Cairo,0,1,0,1,1,0,0,1,1,1,0,6249ee6530170c017416d10b
+30,30,National Museum of Egyptian Civilization(NMEC),30,Cairo,0,0,1,1,1,0,0,1,1,0,0,6249ee6530170c017416d10c
+31,31,Baron Empain Palace,31,Cairo,0,0,0,1,0,0,0,1,1,0,0,6249ee6530170c017416d10d
+32,32,Cairo Tower,32,Cairo,0,0,0,1,0,0,0,1,1,0,0,6249ee6530170c017416d10e
+33,33,Khan el-Khalili,33,Cairo,0,1,0,1,1,1,1,1,1,1,0,6249ee6530170c017416d10f
+34,34,Bayt Al-Suhaymi,34,Cairo,0,0,0,0,1,0,0,1,1,1,0,6249ee6530170c017416d110
+35,35,Muhammad Ali Pasha Palace,35,Cairo,0,0,0,1,1,0,0,1,1,1,0,6249ee6530170c017416d111
+36,36,Muhammad Ali Mosque,36,Cairo,0,1,0,1,1,0,0,1,1,1,0,6249ee6530170c017416d112
+37,37,Aswan Museum,37,Aswan,0,0,1,0,1,0,0,1,1,0,0,6249ee6530170c017416d113
+38,38,Temple of Kom Ombo,38,Aswan,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d114
+39,39,October War Panorama Museum,39,Cairo,0,0,0,1,0,0,0,1,1,0,0,6249ee6530170c017416d130
+40,40,Al-Azhar Mosque,40,Cairo,0,1,0,1,1,0,0,1,0,1,0,6249ee6530170c017416d115
+41,41,Sultan Hassan Mosque,41,Cairo,0,1,0,1,1,0,0,1,0,1,0,6249ee6530170c017416d11f
+42,42,Mosque of Ibn Tulun,42,Cairo,0,1,0,1,1,0,0,1,0,1,0,6249ee6530170c017416d12f
+43,43,Aisha Fahmy Palace,43,Cairo,0,0,0,1,0,0,0,1,1,0,0,random
+44,44,The Grand Egyptian Museum,44,Giza,0,0,1,1,1,0,0,1,1,0,0,6249ee6530170c017416d127
+45,45,Pharaonic Village,45,Giza,0,0,1,1,1,1,0,1,1,0,0,6249ee6530170c017416d128
+46,46,Solar Boat Museum,46,Giza,0,0,1,1,1,0,0,1,1,0,0,6249ee6530170c017416d117
+47,47,The Museum of Islamic Ceramics,47,Giza,0,0,0,1,1,0,0,1,0,1,0,6249ee6530170c017416d118
+48,48,Egypt Papyrus Museum,48,Giza,0,0,1,1,1,0,0,1,1,0,0,6249ee6530170c017416d129
+49,49,Bahariya Oasis,49,Giza,0,0,0,1,1,1,0,0,1,0,0,6249ee6530170c017416d12a
+50,50,Agricultural Museum,50,Giza,0,0,0,1,1,1,0,1,0,0,0,6249ee6530170c017416d12b
+51,51,Abusir Area,51,Giza,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d12d
+52,52,Mit Rahina Museum,52,Giza,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d12e
+53,53,Graeco-Roman Museum,53,Alexanderia,0,0,0,0,1,0,1,1,0,0,0,6249ee6530170c017416d131
+54,54,Alexandria Aquarium,54,Alexanderia,0,0,0,1,0,1,0,0,1,0,0,6249ee6530170c017416d132
+55,55,Montaza Palace,55,Alexanderia,0,0,0,1,0,1,0,1,1,0,0,6249ee6530170c017416d116
+56,56,Pompey pillar,56,Alexanderia,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d120
+57,57,Nadura Temple,57,Wadi Elgaded,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d157
+58,58,Catacombs of Kom El Shoqafa,58,Alexanderia,0,0,1,0,1,0,1,1,0,0,0,6249ee6530170c017416d133
+59,59,Shatby Necropolis,59,Alexanderia,0,0,0,0,1,0,1,1,0,0,0,6249ee6530170c017416d134
+60,60,Black Head Temple,60,Alexanderia,0,0,0,0,1,0,1,1,1,0,0,6249ee6530170c017416d135
+61,61,Roman Theater,61,Alexanderia,0,0,0,0,1,0,1,1,0,0,0,6249ee6530170c017416d11b
+62,62,The sunken cities of Abu Qir,62,Alexanderia,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d11a
+63,63,Cavafy Museum,63,Alexanderia,0,0,0,0,1,0,1,1,1,0,0,6249ee6530170c017416d123
+64,64,Alexandria Port,64,Alexanderia,0,0,0,1,0,1,0,0,1,0,0,6249ee6530170c017416d136
+65,65,Fine Arts Museum,65,Alexanderia,0,0,0,1,0,1,0,1,1,0,0,6249ee6530170c017416d122
+66,66,Mustafa Kamel tombs,66,Alexanderia,0,0,1,0,1,0,1,1,0,0,0,6249ee6530170c017416d124
+67,67,Deir el-Bahari Temple,67,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d11c
+68,68,Mortuary Temple of Seti I,68,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d13a
+69,69,Ramesseum,69,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d125
+70,70,Temple of Abydos,70,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d13c
+71,71,Temple of Horus,71,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d13b
+72,72,Hathor temple,72,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d139
+73,73,Mortuary Temple of Seti I,73,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d13a
+74,74,Khnum temple in Esna,74,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d138
+75,75,Medinet Habu,75,Luxor,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d137
+76,76,Nubian Museum,76,Aswan,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d126
+77,77,Unfinished obelisk,77,Aswan,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d119
+78,78,Nile Museum,78,Aswan,0,0,1,1,1,1,0,1,1,0,0,6249ee6530170c017416d13d
+79,79,Khnum temple,79,Aswan,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d13e
+80,80,Kalabsha Temple,80,Aswan,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d13f
+81,81,Monastery of Anba Simeon,81,Aswan,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d140
+82,82,Nubian Village,82,Aswan,0,0,0,1,1,1,0,0,1,0,0,6249ee6530170c017416d141
+83,83,High Dam,83,Aswan,0,0,0,1,0,1,0,1,0,0,0,6249ee6530170c017416d121
+84,84,Mir monuments,84,Asyut,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d142
+85,85,Koasir el amrana monuments,85,Asyut,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d143
+86,86,Islamic monuments,86,Asyut,0,1,0,1,1,0,0,1,0,1,0,6249ee6530170c017416d144
+87,87,Coptic monuments,87,Asyut,0,1,0,1,1,0,0,1,0,0,1,6249ee6530170c017416d145
+88,88,Western Mountain Cemetery,88,Asyut,0,0,1,0,1,1,0,1,0,0,0,6249ee6530170c017416d146
+89,89,Temple of Abydos,89,Sohag,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d13c
+90,90,Temple of Ramses II,90,Sohag,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d147
+91,91,Red monastery,91,Sohag,0,1,0,1,1,0,0,1,0,0,1,6249ee6530170c017416d148
+92,92,el-Amarna Hill,92,Manya,0,1,0,1,1,0,0,1,0,0,1,6249ee6530170c017416d149
+93,93,Virgin Mary Monastery,93,Manya,0,1,0,1,1,0,0,1,0,0,1,6249ee6530170c017416d14a
+94,94,Mallawi Museum,94,Manya,0,0,1,1,1,0,0,1,1,0,1,6249ee6530170c017416d14b
+95,95,Maho Cemetery,95,Manya,0,0,0,1,1,1,0,0,1,0,0,6249ee6530170c017416d14c
+96,96,ancient mosques,96,Manya,0,1,0,1,1,0,0,1,0,1,0,6249ee6530170c017416d14d
+97,97,San  el Hager,97,Sharqia,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d14e
+98,98,Tel Ibrahim Awad,98,Sharqia,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d14f
+99,99,Ismailia Museum,99,Ismailia,0,0,1,1,1,0,0,1,0,0,0,6249ee6530170c017416d152
+100,100,Abu Atwa Tank Museum,100,Ismailia,0,0,0,1,0,1,0,1,0,0,0,6249ee6530170c017416d153
+101,101,The International Museum of the Suez Canal Authority,101,Ismailia,0,0,0,1,0,1,0,1,0,0,0,6249ee6530170c017416d154
+102,102,Ferdinand de Lesseps house,102,Ismailia,0,0,0,1,0,1,0,1,0,0,0,6249ee6530170c017416d155
+103,103,Tree hill,103,Ismailia,0,0,0,1,0,1,0,1,0,0,0,6249ee6530170c017416d156
+104,104,sand museum,104,Hurghada,0,0,1,1,1,1,0,1,1,0,0,6249ee6530170c017416d150
+105,105,Mini Egypt Park Museum,105,Hurghada,0,0,1,1,1,1,0,1,1,0,0,6249ee6530170c017416d151
+106,106,King Tut Museum,106,Sharm al-Sheikh,0,0,1,1,1,0,0,1,1,0,0,6249ee6530170c017416d15c
+107,107,Ras Muhammed Reserve,107,Sharm al-Sheikh,0,0,0,1,1,1,0,0,1,0,0,6249ee6530170c017416d15d
+108,108,Nabq Nature Reserve,108,Sharm al-Sheikh,0,0,0,1,1,1,0,0,1,0,0,6249ee6530170c017416d15b
+109,109,Alf Layla we Layla,109,Sharm al-Sheikh,0,0,0,1,0,0,0,1,1,0,0,6249ee6530170c017416d16b
+110,110,Monastery of Anba Antonios,110,Red sea,0,1,0,1,1,0,0,1,0,0,1,random
+111,111,Monastery of Anba Pola,111,Red sea,0,1,0,1,1,0,0,1,0,0,1,random
+112,112,Wadi Hammamat,112,Red sea,0,0,0,0,1,1,0,0,1,0,0,6249ee6530170c017416d161
+113,113,Monastery of Saint Paul the Anchorite,113,Red sea,0,0,0,0,1,1,0,0,1,0,0,6249ee6530170c017416d160
+114,114,Samdayi Reserve (Dolffish House),114,Red sea,0,0,0,0,1,1,0,0,1,0,0,6249ee6530170c017416d15e
+115,115,Mount Sinai,115,South of Sina,0,1,0,1,1,0,0,1,0,0,1,6249ee6530170c017416d163
+116,116,Serabit el-Khadim,116,South of Sina,0,0,1,1,1,0,0,1,1,0,0,6249ee6530170c017416d164
+117,117,Wadi Maghareh,117,South of Sina,0,0,0,0,1,1,0,0,1,0,0,6249ee6530170c017416d165
+118,118,Al-Markh Plain,118,South of Sina,0,0,1,0,1,1,0,0,1,0,0,6249ee6530170c017416d158
+119,119,Rashid Museum,119,Behira,0,0,0,1,1,1,0,1,1,0,0,6249ee6530170c017416d166
+120,120,Lighthouse Rashid,120,Behira,0,0,0,1,1,1,0,1,1,0,0,6249ee6530170c017416d159
+121,121,King Farouk Palace,121,Behira,0,0,0,1,0,0,0,1,1,0,0,6249ee6530170c017416d15a
+122,122,Hibis Temple,122,Wadi Elgaded,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d169
+123,123,Dush Temple,123,Wadi Elgaded,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d167
+124,124,Bajwat cemetery,124,Wadi Elgaded,0,1,0,0,1,1,0,1,1,0,1,6249ee6530170c017416d168
+125,125,Balat Pharaonic Village,125,Wadi Elgaded,0,0,1,0,1,0,0,1,0,0,0,6249ee6530170c017416d16a
